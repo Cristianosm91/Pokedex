@@ -9,9 +9,18 @@ https://www.figma.com/file/CFd1USWtbpCj3gogP6FB7X/Pokemon?node-id=0%3A1
 ### Alterações
 
 1- Aumento do número de Pokemons.
+
 2- Padronizado o tamanho minimo dos cards.
+
 3- Não estava trazendo o primeiro pokémon, editado para pegar desde a posição 0.
+
 4- Adicionado o filtro de pokémons do tipo: poison, bug, normal, fairy, ground, fighting, psychic, rock e grass.
+
+![image](https://user-images.githubusercontent.com/69764360/156272910-b924c58e-9bd9-4046-8702-7cf790d6452a.png)
+![image](https://user-images.githubusercontent.com/69764360/156272979-4987966d-9691-417d-b052-afcd971c9e02.png)
+![image](https://user-images.githubusercontent.com/69764360/156273011-0be77b5f-0e09-4f35-b717-fba12faae6d3.png)
+![image](https://user-images.githubusercontent.com/69764360/156273045-c9b19844-d2b8-46ea-81a1-72ab54b84adb.png)
+
 
 
 # Comandos para subir no Github:
